@@ -1,0 +1,6 @@
+Enter the start node: A
+Enter the goal node: G
+Shortest Path:
+A -> B -> E -> G
+total cost: 6
+Result: We have successfully implemented A* Algorithm using Python.
