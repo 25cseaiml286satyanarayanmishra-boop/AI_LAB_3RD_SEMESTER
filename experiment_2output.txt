@@ -1,0 +1,15 @@
+Enter the no of vertices: 5
+Enter vertex 1: a
+Enter adjacent vertices of a (space-separated): b c
+Enter vertex 2: b
+Enter adjacent vertices of b (space-separated): d
+Enter vertex 3: c
+Enter adjacent vertices of c (space-separated): e
+Enter vertex 4: d
+Enter adjacent vertices of d (space-separated): d
+Enter vertex 5: e
+Enter adjacent vertices of e (space-separated): e
+Enter the starting vertex: a
+
+Graph: {'a': ['b', 'c'], 'b': ['d'], 'c': ['e'], 'd': ['d'], 'e': ['e']}
+DFS traversal: a b d c e
