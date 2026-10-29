@@ -1,0 +1,9 @@
+enter the number of cities:4
+enter the cost matrix
+0 10 15 20
+10 0 25  35
+15 25 0 30
+25 35 30 0
+enter the starting city 0 to ():0
+the best path is [0, 3, 2, 1, 0]
+the minimum cost is 85
