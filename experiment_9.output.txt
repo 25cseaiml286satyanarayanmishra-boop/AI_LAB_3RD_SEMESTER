@@ -1,0 +1,67 @@
+Welcome to Tic-Tac-Toe!
+Enter your move by choosing a row (0-2) and a column (0-2) separated by a space.
+
+
+   |   |   
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+
+
+Player X's turn.
+Enter row and column (e.g., 0 2): 0 0 
+
+
+ X |   |   
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+
+
+Player O's turn.
+Enter row and column (e.g., 0 2): 0 1
+
+
+ X | O |   
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+
+
+Player X's turn.
+Enter row and column (e.g., 0 2): 1 0
+
+
+ X | O |   
+---+---+---
+ X |   |   
+---+---+---
+   |   |   
+
+
+Player O's turn.
+Enter row and column (e.g., 0 2):  1 1
+
+
+ X | O |   
+---+---+---
+ X | O |   
+---+---+---
+   |   |   
+
+
+Player X's turn.
+Enter row and column (e.g., 0 2): 2 0
+
+
+ X | O |   
+---+---+---
+ X | O |   
+---+---+---
+ X |   |   
+
+
+Congratulations! Player X wins!
