@@ -1,0 +1,17 @@
+Enter number of vertices: 6
+Enter vertex 1 : A
+Enter adjacent of vertex A (space-separated ): B C
+Enter vertex 2 : B
+Enter adjacent of vertex B (space-separated ): D E
+Enter vertex 3 : C
+Enter adjacent of vertex C (space-separated ): E
+Enter vertex 4 : D
+Enter adjacent of vertex D (space-separated ): E
+Enter vertex 5 : E
+Enter adjacent of vertex E (space-separated ): F
+Enter vertex 6 : F
+Enter adjacent of vertex F (space-separated ): 
+Enter the starting vertex: A
+
+BFS Traversal:
+A B C D E F
